@@ -63,10 +63,10 @@ Sou estudante de Ciência da Computação na UFSCar - Campus Sorocaba e técnico
 ## 🎓 Formação Acadêmica
 
 - **🎓 Ciência da Computação – UFSCar (2021 – 2026)**  
-  Disciplinas: Engenharia de Software, Estruturas de Dados, Banco de Dados, Arquitetura de Computadores, Robótica
+  Destaques: Engenharia de Software, Estruturas de Dados Avançadas, Banco de Dados, Programação Orientada a Objetos, Inteligência Artificial, Circuitos Digitais, Arquitetura de Computadores, Robótica.
 
 - **⚙️ Técnico em Mecatrônica – ETEC Rubens de Faria e Souza (2019 – 2020)**  
-  Destaques: Microcontroladores, Comandos Elétricos, Eletrotécnica, Automação, Programação em C
+  Destaques: Microcontroladores, Comandos Elétricos, Eletrotécnica, Automação, Programação em C.
 
 ---
 
